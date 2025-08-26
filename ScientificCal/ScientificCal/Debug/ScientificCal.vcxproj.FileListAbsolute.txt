@@ -1,0 +1,7 @@
+C:\Users\kseroff\source\repos\ScientificCal\ScientificCal\Debug\ScientificCal.Calculater.resources
+C:\Users\kseroff\source\repos\ScientificCal\ScientificCal\Debug\ScientificCal.vcxproj.GenerateResource.cache
+E:\курсовая\ScientificCal\ScientificCal\Debug\ScientificCal.vcxproj.AssemblyReference.cache
+E:\курсовая\ScientificCal\ScientificCal\Debug\ScientificCal.Calculater.resources
+E:\курсовая\ScientificCal\ScientificCal\Debug\ScientificCal.vcxproj.GenerateResource.cache
+C:\Users\Kseroff\source\repos\ScientificCal\ScientificCal\Debug\ScientificCal.vcxproj.AssemblyReference.cache
+C:\Users\Kseroff\source\repos\ScientificCal\ScientificCal\Debug\ScientificCal.form2.resources
